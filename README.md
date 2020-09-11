@@ -5,28 +5,28 @@ I'm a Frontend developer based in Portharcourt, Nigeria. I build interactive Web
 ## SKILLS - 
 I build on the frontend with these:
 ### Technical
-- HTML **/**
-- CSS(Sass) **/**
-- Bootstrap **/**
-- Javascript **/**
-- Jquery **/**
-- Reactjs **/**
-- Redux **/**
-- Styled-components **/**
+- HTML 
+- CSS(Sass) 
+- Bootstrap
+- Javascript 
+- Jquery 
+- Reactjs 
+- Redux 
+- Styled-components 
 - Apollo & Clientside Graphql
 
 ### Productivity 
-- Vscode **/**
-- Terminal **/**
-- Slack **/**
+- Vscode 
+- Terminal 
+- Slack 
 - Trello
 
 ### Tools
-- Git, Github & Bitbucket **/**
+- Git, Github & Bitbucket 
 - Firebase
 
 
 ## Find me around the web
-- Twitter: https://www.twitter.com/precious_origho **/**
-- LinkedIn: http://linkedin.com/in/orighoprecious **/**
+- Twitter: https://www.twitter.com/precious_origho 
+- LinkedIn: http://linkedin.com/in/orighoprecious 
 - Dev.to: https://dev.to/orighoprecious
