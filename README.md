@@ -26,3 +26,7 @@ I build on the frontend with these:
 - Firebase
 
 
+## Find me around the web
+- Twitter: https://www.twitter.com/precious_origho
+- LinkedIn: http://linkedin.com/in/orighoprecious
+- Dev.to: https://dev.to/orighoprecious
