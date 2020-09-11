@@ -1,10 +1,10 @@
 # Hi there 👋, I'm Origho Precious 
 
-I'm a Frontend developer based in Portharcourt, Nigeria. I build interactive Web Apps with beautiful User Interfaces, and I have an eye for design.
+I'm a Frontend developer based in Portharcourt, Nigeria. I build interactive Web Apps with beautiful User Interfaces, and I have an eye for design. When I'm not coding, You'd either see me watching football or Playing football or playing video games.
 
-# SKILLS
-
-## Technical
+## SKILLS - 
+I build on the frontend with these:
+### Technical
 - HTML
 - CSS(Sass)
 - Bootstrap
@@ -15,14 +15,14 @@ I'm a Frontend developer based in Portharcourt, Nigeria. I build interactive Web
 - Styled-components
 - Apollo & Clientside Graphql
 
-## Productivity 
+### Productivity 
 - Vscode
 - Terminal
 - Slack
 - Trello
 
-## Tools
+### Tools
 - Git, Github & Bitbucket
 - Firebase
 
-# EXPERIENCE
+
