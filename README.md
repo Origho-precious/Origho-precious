@@ -35,4 +35,5 @@ I build on the frontend with these:
 - LinkedIn: http://linkedin.com/in/orighoprecious 
 - Dev.to: https://dev.to/orighoprecious
 
-# I'm actively searching for a frontend developer roles.
+## I'm actively searching for a frontend developer roles.
+
