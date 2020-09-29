@@ -27,7 +27,7 @@ I build on the frontend with these:
 
 ### Currently Learning 
 - React Testing
-- Gatsby
+- Nextjs
 
 
 ## Find me around the web
