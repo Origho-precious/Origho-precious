@@ -12,12 +12,13 @@ I build on the frontend with these:
 - Jquery 
 - Reactjs 
 - Redux 
+- Nextjs
 - Styled-components 
 - Apollo & Clientside Graphql
 
 ### Productivity 
 - Vscode 
-- Terminal 
+- Hyper Terminal 
 - Slack 
 - Trello
 
@@ -26,8 +27,8 @@ I build on the frontend with these:
 - Firebase
 
 ### Currently Learning 
-- React Testing
-- Nextjs
+- Typescript
+- Storybook
 
 
 ## Find me around the web
