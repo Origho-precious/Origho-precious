@@ -7,7 +7,7 @@ I build on the frontend with these:
 ### Technical
 - HTML 
 - CSS(Sass) 
-- Bootstrap
+- TailwindCss
 - Javascript 
 - Typescript
 - Jquery 
@@ -21,7 +21,6 @@ I build on the frontend with these:
 - Vscode 
 - Terminal 
 - Slack 
-- Trello
 - Notion
 
 ### Tools
