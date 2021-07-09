@@ -1,6 +1,6 @@
 # Hi there 👋, I'm Origho Precious 
 
-I'm a Software Developer based in Portharcourt, Nigeria. I build interactive Web Apps with beautiful User Interfaces, and I have an eye for design. When I'm not coding, You'd either see me watching football, reading online, watching a movie or playing video games.
+I'm a Software Developer based in Portharcourt, Nigeria. I build interactive Web Apps with beautiful User Interfaces, and I have an eye for design. When I'm not coding/learning, You'd either see me watching football(Soccer), reading online, watching a movie or playing video games.
 
 ## SKILLS 
 I build on the frontend with these:
@@ -25,7 +25,6 @@ I build on the frontend with these:
 
 ### Tools
 - Git, Github & Bitbucket 
-- Firebase
 
 ### Currently Learning 
 - Node, Mongodb and Express.
@@ -34,6 +33,7 @@ I build on the frontend with these:
 ### Next On My List to Learn
 - React Native
 - Python
+- Golang
 
 
 ## Find me around the web
