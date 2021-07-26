@@ -6,7 +6,7 @@ I'm a Software Developer based in Portharcourt, Nigeria. I build interactive Web
 I build on the frontend with these:
 ### Technical
 - HTML 
-- CSS(Sass) 
+- (S)CSS 
 - TailwindCss
 - Javascript 
 - Typescript
@@ -15,7 +15,7 @@ I build on the frontend with these:
 - Redux 
 - Nextjs
 - Styled-components 
-- Apollo & Clientside Graphql
+- React-testing library
 
 ### Productivity 
 - Vscode 
@@ -32,9 +32,9 @@ I build on the frontend with these:
 
 ### Next On My List to Learn
 - React Native
+- Solidity
 - Python
 - Golang
-
 
 ## Find me around the web
 - Twitter: https://www.twitter.com/precious_origho 
