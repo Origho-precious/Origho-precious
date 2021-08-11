@@ -5,17 +5,13 @@ I'm a Software Developer based in Portharcourt, Nigeria. I build interactive Web
 ## SKILLS 
 I build on the frontend with these:
 ### Technical
-- HTML 
 - (S)CSS 
 - TailwindCss
 - Javascript 
 - Typescript
-- Jquery 
-- Reactjs 
+- Reactjs. Nextjs 
 - Redux 
-- Nextjs
-- Styled-components 
-- React-testing library
+- Styled-components
 
 ### Productivity 
 - Vscode 
