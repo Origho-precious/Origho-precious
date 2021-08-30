@@ -10,6 +10,7 @@ I build on the frontend with these:
 - Javascript 
 - Typescript
 - Reactjs. Nextjs 
+- React Native
 - Redux 
 - Styled-components
 
@@ -27,7 +28,6 @@ I build on the frontend with these:
 - Loopback
 
 ### Next On My List to Learn
-- React Native
 - Solidity
 - Python
 - Golang
