@@ -5,14 +5,11 @@ I'm a Software Developer based in Portharcourt, Nigeria. I build interactive Web
 ## SKILLS 
 I build on the frontend with these:
 ### Technical
-- (S)CSS 
-- TailwindCss
 - Javascript 
 - Typescript
 - Reactjs. Nextjs 
 - React Native
-- Redux 
-- Styled-components
+- Nodejs, Mongodb and Express.
 
 ### Productivity 
 - Vscode 
@@ -24,17 +21,17 @@ I build on the frontend with these:
 - Git, Github & Bitbucket 
 
 ### Currently Learning 
-- Node, Mongodb and Express.
-- Loopback
+- Solidity
+- Web3
 
 ### Next On My List to Learn
-- Solidity
-- Python
 - Golang
+- Python
 
 ## Find me around the web
 - Twitter: https://www.twitter.com/precious_origho 
 - LinkedIn: http://linkedin.com/in/orighoprecious 
 - Dev.to: https://dev.to/orighoprecious
+- Medium: https://medium.com/@origho9
 
 
