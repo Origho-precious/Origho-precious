@@ -10,6 +10,11 @@ I build on the web with these:
 - React Native
 - Nodejs, Mongodb and Express.
 
+I also build on the web3 space with
+- Solidity
+- web3.js
+- @solana/web3.js
+
 ### Productivity 
 - Vscode 
 - Terminal 
@@ -20,12 +25,11 @@ I build on the web with these:
 - Git, Github & Bitbucket 
 
 ### Currently Learning 
-- Solidity
-- Web3
+- More on Solidity
+- Building on the NFT space
 
 ### Next On My List to Learn
 - Golang
-- Python
 
 ## Find me around the web
 - Twitter: https://www.twitter.com/precious_origho 
