@@ -11,6 +11,7 @@ I build on the web with these:
 - Nodejs, Mongodb and Express.
 
 I also build on the web3 space with
+- React/Nextjs
 - Solidity
 - web3.js
 - @solana/web3.js
@@ -29,6 +30,7 @@ I also build on the web3 space with
 - Building on the NFT space
 
 ### Next On My List to Learn
+- Rust
 - Golang
 
 ## Find me around the web
