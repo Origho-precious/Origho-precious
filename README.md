@@ -1,20 +1,19 @@
 # Hi there 👋, 
-I'm a Software Developer based in Portharcourt, Nigeria. I build interactive Web Apps with beautiful User Interfaces, and I have an eye for design. When I'm not coding/learning, You'd either see me watching football(Soccer), reading online, watching a movie or playing video games.
+I'm a Software Developer, I build interactive Web Apps with beautiful User Interfaces, and I have an eye for design. When I'm not coding/learning new things, You'd either see me watching football(Soccer), reading online, watching a movie or playing video games.
 
 ## SKILLS 
 I build on the web with these:
 ### Technical
 - Javascript 
 - Typescript
-- Reactjs. Nextjs 
-- React Native
+- Reactjs. Nextjs
 - Nodejs, Mongodb and Express.
 
 I also build on the web3 space with
 - React/Nextjs
-- Solidity
 - web3.js
 - @solana/web3.js
+- Near-api-js
 
 ### Productivity 
 - Vscode 
@@ -24,10 +23,6 @@ I also build on the web3 space with
 
 ### Tools
 - Git, Github & Bitbucket 
-
-### Currently Learning 
-- More on Solidity
-- Building on the NFT space
 
 ### Next On My List to Learn
 - Rust
