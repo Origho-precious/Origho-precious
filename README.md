@@ -16,15 +16,6 @@ I also build on the web3 space with
 - @solana/web3.js
 - Near-api-js
 
-### Productivity 
-- Vscode 
-- Terminal 
-- Slack 
-- Notion
-
-### Tools
-- Git, Github & Bitbucket 
-
 ### Next On My List to Learn
 - Rust
 - Golang
