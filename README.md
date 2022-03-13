@@ -1,5 +1,5 @@
 # Hi there 👋, 
-I'm a Software Developer, I build interactive Web Apps with beautiful User Interfaces, and I have an eye for design. When I'm not coding/learning new things, You'd either see me watching football(Soccer), reading online, watching a movie or playing video games.
+I'm a Software Engineer, I love to build interactive Applications with beautiful User Interfaces, and build APIs to be consumed by client side of applications. When I'm not coding or learning new things, You'd either see me watching football(Soccer), reading online, watching a movie, pestering my friends or playing video games.
 
 ## SKILLS 
 I build on the web with these:
@@ -7,6 +7,7 @@ I build on the web with these:
 - Javascript 
 - Typescript
 - Reactjs. Nextjs
+- React Native
 - Nodejs, Mongodb and Express.
 
 I also build on the web3 space with
