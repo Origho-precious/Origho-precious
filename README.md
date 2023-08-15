@@ -1,5 +1,5 @@
 # Hi there 👋, 
-I'm a Software Engineer, I love to build softwares.
+I'm a Software Engineer and I love to build softwares.
 
 ## Find me around the web
 - Twitter: https://www.twitter.com/precious_origho 
