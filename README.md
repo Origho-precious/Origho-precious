@@ -1,5 +1,5 @@
 # Hi there 👋, 
-I'm a Software Engineer, I love to build interactive Applications with beautiful User Interfaces, and build APIs to be consumed by client side of applications. When I'm not coding or learning new things, You'd either see me watching football(Soccer), reading online, watching a movie, pestering my friends or playing video games.
+I'm a Software Engineer, I love to build softwares.
 
 ## Find me around the web
 - Twitter: https://www.twitter.com/precious_origho 
@@ -7,3 +7,5 @@ I'm a Software Engineer, I love to build interactive Applications with beautiful
 - Dev.to: https://dev.to/orighoprecious
 - Medium: https://medium.com/@origho9
 - Openreplay blog: https://blog.openreplay.com/authors/origho-precious
+
+I'm currently learning data structure and algorithms and other core Computer science fundamentals. I intend to blog about my new things I learn - Adding my blog website URL to the readme soon :)
