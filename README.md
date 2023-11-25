@@ -3,7 +3,7 @@ I'm a Software Developer and I love to build softwares.
 
 ## Find me around the web
 - Twitter: https://www.twitter.com/precious_origho 
-- LinkedIn: http://linkedin.com/in/orighoprecious 
+- LinkedIn: http://linkedin.com/in/preciousorigho 
 - Dev.to: https://dev.to/orighoprecious
 - Medium: https://medium.com/@origho9
 - Openreplay blog: https://blog.openreplay.com/authors/origho-precious
