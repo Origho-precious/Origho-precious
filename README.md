@@ -1,11 +1,13 @@
-# Hi there 👋, 
-I'm a Software Developer and I love to build softwares.
+### 👨‍💻 Precious Origho - Software Engineer
 
-## Find me around the web
-- Twitter: https://www.twitter.com/precious_origho 
-- LinkedIn: http://linkedin.com/in/preciousorigho 
-- Dev.to: https://dev.to/orighoprecious
-- Medium: https://medium.com/@origho9
-- Openreplay blog: https://blog.openreplay.com/authors/origho-precious
+- 💼 Currently a Software Engineer at [Parallel](https://useparallel.com), where we redefine job searches and applications.
+- 🌐 Experienced in building web and mobile applications with a focus on elegant and performant solutions.
+- 📚 I enjoy writing technical articles, sharing my knowledge, and contributing to the programming community.
 
-PS: I'm currently learning core Computer science fundamentals. I intend to blog about new things I learn - Adding my blog website URL to the readme soon :)
+
+
+I frequently write technical articles on programming concepts and technologies. Check out my latest [articles](https://www.preciousorigho.com/articles)!
+
+#### 🌐 Connect with Me
+
+[LinkedIn](http://linkedin.com/in/preciousorigho ) | [Twitter](https://www.twitter.com/precious_origho) | [Personal Website](https://www.preciousorigho.com) 
