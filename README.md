@@ -6,7 +6,7 @@
 
 
 
-I frequently write technical articles on programming concepts and technologies. Check out my latest [articles](https://www.preciousorigho.com/articles)!
+I write technical articles on programming concepts and technologies. Check out my latest [articles](https://www.preciousorigho.com/articles)!
 
 #### 🌐 Connect with Me
 
